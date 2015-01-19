@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Semana #73: Integração do site da Rede com o Facebook e novidades na edição de alvos do PdP"
+date:   2015-01-19 12:40:00
+categories: changelog
+---
+Na release dessa semana ampliamos a integração do site da Rede com o Facebook, fazendo com que
+as postagens e os eventos de Facebook também sejam integrados ao site da rede para qualquer organização.
+
+O pessoal da Minha Sampa já pode adicionar hashtags nas suas postagens e na descrição dos eventos do
+Facebook, e essa informação aparecerá na página do respectivo tema.
+
+A outra novidade da semana é que o campo "Página no Facebook" do formulário de alvo foi consertado!
+Vale lembrar que esse campo aceitará qualquer página do Facebook, pública ou privada. Caso seja inserida
+uma página privada, no momento que o alvo for pressionado pelo Facebook, todos os administradores da rede
+receberão um email alertando que o alvo não será pressionado.
+
+![new-influencer-form](http://i.imgur.com/xEBa5M1.png)
