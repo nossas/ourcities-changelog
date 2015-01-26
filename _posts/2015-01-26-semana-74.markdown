@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Semana #74: Crowdfunding no site da Rede, novidades no formulário de campanha e página 404"
+date:   2015-01-26 9:00:00
+categories: changelog, paneladepressao, site da rede
+---
+A nova página de fundadores já pode ser vista em seu [ambiente de testes](http://meurio-staging.herokuapp.com/founders).
+Entre as principais modificações estão as campanhas de crowdfunding do Catarse, e o novo vídeo do programa de fundadores.
+
+Foi incluído no perfil do usuário da Rede as últimas campanhas vitoriosas do Panela de Pressão que ele participou.
+[![UserPage](http://i.imgur.com/Ki039M5.png)](http://i.imgur.com/Ki039M5.png)
+
+O formulário de campanha do Panela de Pressão recebeu uma nova funcionalidade. Será apresentado um alerta
+ao usuário que escolher alvos para a sua campanha que não possuem o tipo de pressão selecionado. Este recurso
+vale também para a edição das campanhas já existentes.
+[![NewCampaignPage](http://i.imgur.com/s4ddbey.gif)](http://i.imgur.com/s4ddbey.gif)
+
+Na quarta-feira da manutenção a página de campanha do Compartilhaço recebeu uma melhoria de desempenho, e
+finalmente implementamos a [página 404 do Panela de Pressão](http://paneladepressao.nossascidades.org/404),
+essa página serve para quando o usuário tentar acessar uma página que não existe.
+[![NewCampaignPage](http://i.imgur.com/krmVuIX.png)](http://i.imgur.com/krmVuIX.png)
