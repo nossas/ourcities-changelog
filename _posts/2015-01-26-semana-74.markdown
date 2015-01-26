@@ -13,7 +13,7 @@ Foi incluído no perfil do usuário da Rede as últimas campanhas vitoriosas do 
 O formulário de campanha do Panela de Pressão recebeu uma nova funcionalidade. Será apresentado um alerta
 ao usuário que escolher alvos para a sua campanha que não possuem o tipo de pressão selecionado. Este recurso
 vale também para a edição das campanhas já existentes.
-[![NewCampaignPage](http://i.imgur.com/s4ddbey.gif)](http://i.imgur.com/s4ddbey.gif)
+[![NewCampaignPage](http://i.imgur.com/ZLJsjIP.png)](http://i.imgur.com/ZLJsjIP.png)
 
 Na quarta-feira da manutenção a página de campanha do Compartilhaço recebeu uma melhoria de desempenho, e
 finalmente implementamos a [página 404 do Panela de Pressão](http://paneladepressao.nossascidades.org/404),
