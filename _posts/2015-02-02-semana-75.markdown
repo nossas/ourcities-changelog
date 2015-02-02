@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Semana #75: Emails bloqueados e o De Olho 2"
+date:   2015-02-02 10:00:00
+categories: changelog, paneladepressao, deolho2
+---
+Descobrimos que os emails de pressão do Panela de Pressão estão sendo "ativamente recusados" pelo servidor
+de emails que gerencia o domínio seguranca.rj.gov.br.
+
+Este é um dos maiores desafios que temos hoje no Panela de Pressão, já que o número de emails de pressão
+bloqueados só aumenta.
+
+Iniciamos o desenvolvimento do De Olho 2 (nome temporário), que possibilitará os cidadãos colaborarem na
+escrita de projetos de lei.
+
+O projeto já possui um [ambiente de testes](http://deolho2-staging.herokuapp.com/projects/1) onde qualquer
+pessoa pode acompanhar a sua evolução.
