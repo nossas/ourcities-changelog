@@ -10,8 +10,8 @@ de emails que gerencia o domínio seguranca.rj.gov.br.
 Este é um dos maiores desafios que temos hoje no Panela de Pressão, já que o número de emails de pressão
 bloqueados só aumenta.
 
-Iniciamos o desenvolvimento do De Olho 2 (nome temporário), que possibilitará os cidadãos colaborarem na
-escrita de projetos de lei.
+Iniciamos o desenvolvimento do De Olho 2, nome temporário do projeto que possibilitará os cidadãos
+colaborarem na escrita de projetos de lei.
 
 O projeto já possui um [ambiente de testes](http://deolho2-staging.herokuapp.com/projects/1) onde qualquer
 pessoa pode acompanhar a sua evolução.
