@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Semana #76: Novidades sobre o Legislando e a página de fundadores"
+date:   2015-02-09 10:00:00
+categories: changelog, legislando, site da rede
+---
+Finalmente a [página de fundadores](http://www.nossascidades.org/founders) da rede está pronta para a próxima
+fase do programa. Além das mudanças de texto a página recebeu o novo vídeo do programa de fundadores, e
+também um [espaço](http://www.nossascidades.org/founders#founders-support) para as campanhas de crowdfunding
+do Catarse.
+
+Já está no ar o formulário para a criação de projetos de lei na plataforma do
+[Legislando](http://deolho2-staging.herokuapp.com/), é a primeira funcionalidade do projeto que vai ao ar
+nessa sexta (13 de fevereiro). Ao longo da semana ainda trabalharemos na página do projeto de lei e na página
+inicial da plataforma.
+
+[![new-project](http://i.imgur.com/1HbY52O.png)](http://i.imgur.com/1HbY52O.png)
