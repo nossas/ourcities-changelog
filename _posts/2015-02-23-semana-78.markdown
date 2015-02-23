@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Semana #78: Carnaval, Desmilitarização da Justiça e o Legislando"
+date:   2015-02-23 09:00:00
+categories: changelog, legislando, tribunais
+---
+Depois de pular uma semana em nosso changelog, pois geral caiu na folia (menos o Josias), voltamos com
+novidades!
+
+Já está em [staging](http://tribunais2-staging.herokuapp.com/#tasks-panel) a nova missão para pressionar o
+deputado Carlos Zarattini no site da Desmilitarização da Justiça.
+
+[![Tribunais](http://i.imgur.com/pyPgIaJ.png)](http://tribunais2-staging.herokuapp.com/#tasks-panel)
+
+O [Legislando](http://legislando.nossascidades.org/) está pronto para o grande lançamento! Foram quatro
+semanas preparando um ambiente para que as pessoas possam construir de forma colaborativa projetos de lei que
+aproximem as cidades daquilo que elas desejam.
+
+[![Legislando](http://i.imgur.com/yprAmli.png)](http://legislando.nossascidades.org/)
+
+Vida longa ao Legislando!
