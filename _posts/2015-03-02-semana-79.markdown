@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Semana #79: O novo header da Rede"
+date:   2015-03-02 09:00:00
+categories: changelog
+---
+Semana passada a equipe ficou bastante envolvida com a implementação o novo header da Rede, que pode ser
+testado no ambiente de [staging do Legislando](http://deolho2-staging.herokuapp.com/).
+
+Os principais problemas do header antigo que o novo header se propõe a resolver:
+
+**Layout responsivo**, possibilitando que o header tenha uma boa visualização em qualquer dispositivo mobile:
+
+
+[![Novo header responsivo](http://i.imgur.com/2DKg6gI.jpg)](http://i.imgur.com/2DKg6gI.jpg)
+
+**Diminuir a altura do header**, tornando o header mais discreto e priorizando o conteúdo dos sites da Rede.
+
+[![Novo header](http://i.imgur.com/D5FfrX5.jpg)](http://i.imgur.com/D5FfrX5.jpg)
+
+**Resolver alguns bugs**, o novo header é totalmente baseado em um [framework](http://foundation.zurb.com/)
+que garante o bom funcionamento dos botões e menus.
+
+**Adicionar mais cidades**, o novo header possui um dropdown que listará todas as organizações da Rede!
+
+[![Menu de cidades do novo header](http://i.imgur.com/Rmo5GER.jpg)](http://i.imgur.com/Rmo5GER.jpg)
+
+Corre lá no [staging do Legislando](http://deolho2-staging.herokuapp.com/) e teste você mesmo o novo header!
