@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Semana #80: Novo header em produção, adotantes no Legislando e as novas organizações em staging"
+date:   2015-03-02 12:00:00
+categories: changelog
+---
+Essa semana atrasamos o changelog, que normalmente é feito na segunda-feira, mas sem pânico! *Nóis tarda mais
+não fáia!*.
+
+Antes de mais nada, foi para ao ar o novo header da Rede! *That's one small step for [a] man, one giant leap
+for mankind*. Se você não está ligado no novo header da Rede, veja o
+[post da semana passada](http://changelog.nossascidades.org/changelog/2015/03/02/semana-79.html) que fala só
+sobre o novo header.
+
+![Man walks on the moon](http://s.ngm.com/1969/12/moon-landing/img/moon-aldrin-615.jpg)
+
+A novidade do Legislando é que o administrador agora pode adicionar e remover adotantes de um projeto de lei:
+
+![Adicionar adotante](http://i.imgur.com/weVsdzK.gif)
+
+E já estamos preparando o terreno para a chegada das novas cidades à nossa Rede de mobilização, em
+[staging](http://meurio-staging.herokuapp.com/) já é possível ver as novas organizações no menu do novo
+header. As organizações ainda estão sem identidade visual e página institucional, mas o @igorcampos e seus
+duentes estão trabalhando nisso ;)
+
+![Novas organizações](http://i.imgur.com/qoHZbHe.png)
