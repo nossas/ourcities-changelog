@@ -5,7 +5,7 @@ date:   2015-03-10 12:00:00
 categories: changelog
 ---
 Essa semana atrasamos o changelog, que normalmente é feito na segunda-feira, mas sem pânico! *Nóis tarda mais
-não fáia!*.
+não fáia!*
 
 Antes de mais nada, foi para ao ar o novo header da Rede! *That's one small step for [a] man, one giant leap
 for mankind*. Se você não está ligado no novo header da Rede, veja o
