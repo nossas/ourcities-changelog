@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Semana #86: Novidades no Compartilhaço, Desmilitarização e Accounts"
+date:   2015-04-20 10:33:00
+categories: changelog, compartilhaco, desmilitarizacao, accounts
+---
+
+Depois de 5 semanas sem postagens o Changelog da Rede Nossas Cidades está de volta.
+
+Nesse meio tempo tivemos muitas reuniões e novidades nas plataformas, mas como de costume vamos recapitular a
+última semana na vida dos rapazes da TI.
+
+O Compartilhaço ganhou um pequeno *revamp* na página inicial, agora além das campanhas em andamento os
+visitantes podem ver também as campanhas que foram bem sucedidas.
+
+![Compartilhaço](http://i.imgur.com/IDbOHVP.png)
+
+Foi ao ar a nova missão do site da [Desmilitarização da Justiça](http://desmilitarizacaodajustica.meurio.org.br/), trata-se do envio de um email para o deputado Carlos Zarattini.
+
+Um bug na recuperação de senha do Accounts foi corrigido, os usuários que tentavam recuperar suas senhas além de não conseguir o sistema exibia mensagens de erro em inglês, nada amigável. O problema foi solucionado e os textos agora estão em português.
